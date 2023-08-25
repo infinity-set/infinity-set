@@ -12,11 +12,20 @@
 
 ## :iphone: Connect with me:
 
-[<img align="left" alt="Alem | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/ADDLINK
+[<img align="left" alt="Alem | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](https://www.linkedin.com/in/mylink)
 
 <br><br>
+
+## :scroll: Certifications:
+
+[<img align="left" alt="Cisco logo" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Comptia-logo.svg" />](https://www.comptia.org/)
+<br><br>
+[<img align="left" alt="Cisco logo" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20180706165010%21Cisco_logo.svg" />](https://www.cisco.com/)
+<br><br>
+
+
+
+
 
 ## :hammer: Languages and Tools:
 [<img align="left" alt="Python Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
