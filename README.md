@@ -52,8 +52,16 @@
 [<img align="left" alt="Microsoft Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
 [<img align="left" alt="Red Hat Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" />][red_hat]
 [<img align="left" alt="Autopsy Icon" width="120px" src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" />][autopsy]
-[<img align="left" alt="Autopsy Icon" width="60px" src="https://community.splunk.com/html/assets/splunk-logo.svg" />][splunk]
+[<img align="left" alt="Splunk Icon" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk-Logo.jpg" />][splunk]
+[<img align="left" alt="Nessus Icon" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" />][nessus]
+[<img align="left" alt="Wireshark Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />][wireshark]
+[<img align="left" alt="Office 365" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" />][office_365]
 
+
+
+[office_365]: https://www.office.com/
+[wireshark]: https://www.wireshark.org/
+[nessus]: https://www.tenable.com/products/nessus
 [splunk]: https://www.splunk.com/
 [autopsy]: https://www.autopsy.com/
 [red_hat]: https://www.redhat.com/
