@@ -49,9 +49,9 @@
 [<img align="left" alt="Microsoft Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
 [<img align="left" alt="Red Hat Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" />][red_hat]
 [<img align="left" alt="Autopsy Icon" width="120px" src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" />][autopsy]
-<br><br><br>
 [<img align="left" alt="Splunk Icon" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk-Logo.jpg" />][splunk]
 [<img align="left" alt="Nessus Icon" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" />][nessus]
+<br><br><br>
 [<img align="left" alt="HTML-CSS Icon" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" />][html_css]
 [<img align="left" alt="Wireshark Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />][wireshark]
 <br><br><br>
