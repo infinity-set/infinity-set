@@ -28,7 +28,7 @@
 <br><br>
 [<img align="right" alt="ISC2 logo" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/%28ISC%29%C2%B2_logo_%28vectorized%29.svg" />](https://www.isc2.org/)
 <img align="left" alt="CCSP" width="70px" src="https://github.com/infinity-set/infinity-set/assets/142350896/35541783-2f44-43d8-bec5-732481942327" />
-<img align="left" alt="SSCP" width="70px" src="https://github.com/infinity-set/infinity-set/assets/142350896/91d83ab1-682e-4277-bd1a-033da9100ce1" />
+<img align="left" alt="SSCP" width="65px" src="https://github.com/infinity-set/infinity-set/assets/142350896/91d83ab1-682e-4277-bd1a-033da9100ce1" />
 <br>
 <br>
 [<img align="right" alt="Cisco logo" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20180706165010%21Cisco_logo.svg" />](https://www.cisco.com/) 
@@ -47,8 +47,10 @@
 [<img align="left" alt="Github Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
 [<img align="left" alt="Linux Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][linux]
 [<img align="left" alt="Linux Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Virtualbox_Faenza.svg" />][virtualbox]
+[<img align="left" alt="Linux Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" />][vmware]
 
 
+[vmware]: https://www.vmware.com/products/workstation-pro.html 
 [virtualbox]: https://www.virtualbox.org/
 [python]: https://www.python.org/
 [git]: https://git-scm.com/.org/
