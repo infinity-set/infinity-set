@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I'm! 
 
-<!--
-**infinity-set/infinity-set** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Development Projects:
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Python](https://www.google.com/)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Splunk](https://www.google.com/)
+  
+- <b>Python</b>
+  - [Crypto](https://www.google.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :iphone: Connect with me:
+
+[<img align="left" alt="Alem | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/ADDLINK
+
+<br><br>
+
+## :hammer: Languages and Tools:
+[<img align="left" alt="Python Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
+[<img align="left" alt="Github Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
+[<img align="left" alt="Linux Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][linux]
+
+[python]: https://www.python.org/
+[git]: https://git-scm.com/.org/
+[linux]: https://www.linux.org/
