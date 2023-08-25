@@ -10,11 +10,11 @@
 - <b>Python</b>
   - [Crypto](https://www.google.com/)
 
-## :iphone: Connect with me:
+## :iphone: Connect with me :
 
 [<img align="left" alt="Alem | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](https://www.linkedin.com/in/mylink)
 
-<br><br>
+<br><br><br><br>
 ## :scroll: Certifications:
 
 [<img align="right" alt="CompTIA logo" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Comptia-logo.svg" />](https://www.comptia.org/)
@@ -27,22 +27,19 @@
 
 <br><br>
 [<img align="right" alt="ISC2 logo" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/%28ISC%29%C2%B2_logo_%28vectorized%29.svg" />](https://www.isc2.org/)
-<img align="left" alt="CCSP" width="70px" src="https://github.com/infinity-set/infinity-set/assets/142350896/35541783-2f44-43d8-bec5-732481942327" />
-<img align="left" alt="SSCP" width="65px" src="https://github.com/infinity-set/infinity-set/assets/142350896/91d83ab1-682e-4277-bd1a-033da9100ce1" />
+<img align="left" alt="CCSP" width="70px" height="22px" src="https://github.com/infinity-set/infinity-set/assets/142350896/35541783-2f44-43d8-bec5-732481942327" />
+<img align="left" alt="SSCP" width="65px" height="22px" src="https://github.com/infinity-set/infinity-set/assets/142350896/91d83ab1-682e-4277-bd1a-033da9100ce1" />
 <br>
 <br>
 [<img align="right" alt="Cisco logo" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20180706165010%21Cisco_logo.svg" />](https://www.cisco.com/) 
   
-<img align="left" alt="CCNA" width="70px" src="https://github.com/infinity-set/infinity-set/assets/142350896/f51dcb06-a2fa-4c8c-ba1a-8d495a68b6f6" />
+<img align="left" alt="CCNA" width="70px" height="22px" src="https://github.com/infinity-set/infinity-set/assets/142350896/f51dcb06-a2fa-4c8c-ba1a-8d495a68b6f6" />
+
+<br><br>
 <br><br>
 
-
-
-
-
-
-
 ## :hammer: Tools and Technologies:
+<br><br>
 [<img align="left" alt="Python Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 [<img align="left" alt="Github Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
 [<img align="left" alt="Linux Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][linux]
@@ -83,3 +80,16 @@
 [python]: https://www.python.org/
 [git]: https://git-scm.com/.org/
 [linux]: https://www.linux.org/
+
+<br><br>
+#
+
+### 📊 Stats
+
+![Alems's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinity-set&show_icons=true&theme=gruvbox)
+
+#
+
+<details>
+ <summary><h3>Alem's Coding Journey</h3></summary>
+   I started my coding journey as a
