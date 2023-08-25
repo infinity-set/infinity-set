@@ -42,14 +42,23 @@
 
 
 
-## :hammer: Languages and Tools:
+## :hammer: Tools and Technologies:
 [<img align="left" alt="Python Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 [<img align="left" alt="Github Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
 [<img align="left" alt="Linux Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][linux]
-[<img align="left" alt="Linux Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Virtualbox_Faenza.svg" />][virtualbox]
-[<img align="left" alt="Linux Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" />][vmware]
+[<img align="left" alt="Virtual Box Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Virtualbox_Faenza.svg" />][virtualbox]
+[<img align="left" alt="Vmware Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" />][vmware]
+[<img align="left" alt="Cisco Icon" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20180706165010%21Cisco_logo.svg" />][cisco]
+[<img align="left" alt="Microsoft Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
+[<img align="left" alt="Red Hat Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" />][red_hat]
+[<img align="left" alt="Autopsy Icon" width="120px" src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" />][autopsy]
+[<img align="left" alt="Autopsy Icon" width="60px" src="https://community.splunk.com/html/assets/splunk-logo.svg" />][splunk]
 
-
+[splunk]: https://www.splunk.com/
+[autopsy]: https://www.autopsy.com/
+[red_hat]: https://www.redhat.com/
+[windows]: https://www.microsoft.com/
+[cisco]: https://www.cisco.com
 [vmware]: https://www.vmware.com/products/workstation-pro.html 
 [virtualbox]: https://www.virtualbox.org/
 [python]: https://www.python.org/
