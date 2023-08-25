@@ -55,13 +55,13 @@
 [<img align="left" alt="Wireshark Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />][wireshark]
 [<img align="left" alt="Splunk Icon" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk-Logo.jpg" />][splunk]
 [<img align="left" alt="Nessus Icon" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" />][nessus]
-[<img align="left" alt="Autopsy Icon" width="120px" src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" />][autopsy]
+[<img align="left" alt="Nmap Icon" width="80px" src="https://nmap.org/images/sitelogo.png" />][nmap]
 <br><br><br>
 [<img align="left" alt="Kali Linux Icon" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />][kali]<br>
 [<img align="left" alt="My SQL Icon" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" />][my_sql]
 [<img align="left" alt="Office 365 Icon" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" />][office_365]
 [<img align="left" alt="Burp Suite Icon" width="185px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg" />][burp_suite]
-[<img align="left" alt="Nmap Icon" width="80px" src="https://nmap.org/images/sitelogo.png" />][nmap]
+
 
 
 [kali]: https://www.kali.org/
