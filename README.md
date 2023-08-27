@@ -8,7 +8,7 @@
   - [Splunk](https://www.google.com/)
   
 - <b>Python</b>
-  - [Caesar Cipher](https://github.com/infinity-set/caesar_cipher/edit/main/README.md)
+  - [Caesar Cipher](https://github.com/infinity-set/caesar_cipher)
 
 ## :iphone: Connect with me :
 
