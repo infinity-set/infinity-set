@@ -43,6 +43,7 @@
 [<img align="left" alt="Vmware Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" />][vmware]
 [<img align="left" alt="Cisco Icon" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20180706165010%21Cisco_logo.svg" />][cisco]
 [<img align="left" alt="Microsoft Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
+[<img align="left" alt="Microsoft Azure Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" />][windows]
 [<img align="left" alt="Red Hat Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" />][red_hat]
 [<img align="left" alt="Autopsy Icon" width="120px" src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" />][autopsy]
 
@@ -54,12 +55,15 @@
 [<img align="left" alt="Nmap Icon" width="70px" src="https://nmap.org/images/sitelogo.png" />][nmap]
 [<img align="left" alt="PyCharm Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][pycharm]
 [<img align="left" alt="Visual Code Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
+[<img align="left" alt="JSON Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" />][json]
 <br><br><br>
 [<img align="left" alt="Kali Linux Icon" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />][kali]<br>
 [<img align="left" alt="My SQL Icon" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" />][my_sql]
 [<img align="left" alt="Office 365 Icon" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" />][office_365]
 [<img align="left" alt="Burp Suite Icon" width="185px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg" />][burp_suite]
 
+[azure]: https://azure.microsoft.com/en-us
+[json]: https://www.json.org/json-en.html
 [vscode]: https://code.visualstudio.com/
 [pycharm]: https://www.jetbrains.com/pycharm/
 [kali]: https://www.kali.org/
