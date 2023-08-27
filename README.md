@@ -52,6 +52,7 @@
 [<img align="left" alt="Splunk Icon" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk-Logo.jpg" />][splunk]
 [<img align="left" alt="Nessus Icon" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" />][nessus]
 [<img align="left" alt="Nmap Icon" width="80px" src="https://nmap.org/images/sitelogo.png" />][nmap]
+[<img align="left" alt="PyCharm Icon" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][pycharm]
 <br><br><br>
 [<img align="left" alt="Kali Linux Icon" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />][kali]<br>
 [<img align="left" alt="My SQL Icon" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" />][my_sql]
@@ -59,7 +60,7 @@
 [<img align="left" alt="Burp Suite Icon" width="185px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg" />][burp_suite]
 
 
-
+[pycharm]: https://www.jetbrains.com/pycharm/
 [kali]: https://www.kali.org/
 [nmap]: https://nmap.org/
 [burp_suite]: https://portswigger.net/burp
