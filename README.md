@@ -7,7 +7,7 @@
 
 ## :iphone: Connect with me :
 
-[<img align="left" alt="Alem | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](https://www.linkedin.com/in/mylink)
+[<img align="left" alt="Alem | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](https://www.linkedin.com/in/)
 
 <br><br><br><br>
 ## :scroll: Certifications:
