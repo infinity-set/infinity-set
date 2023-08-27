@@ -1,12 +1,7 @@
 # Hi, I'm! 
 
-## Software Development Projects:
+## Projects:
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Python](https://www.google.com/)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Splunk](https://www.google.com/)
-  
 - <b>Python</b>
   - [Caesar Cipher](https://github.com/infinity-set/caesar_cipher)
 
