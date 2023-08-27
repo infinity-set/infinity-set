@@ -4,6 +4,7 @@
 
 - <b>Python</b>
   - [Caesar Cipher](https://github.com/infinity-set/caesar_cipher)
+  - [Hacking Caesar Cipher](https://github.com/infinity-set/hack_caesar)
 
 ## :iphone: Connect with me :
 
