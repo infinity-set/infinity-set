@@ -51,6 +51,7 @@
 [<img align="left" alt="Microsoft Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
 [<img align="left" alt="Microsoft Azure Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" />][windows]
 [<img align="left" alt="Red Hat Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" />][red_hat]
+[<img align="left" alt="Bash Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />][bash]
 [<img align="left" alt="Autopsy Icon" width="120px" src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" />][autopsy]
 
 <br><br><br>
@@ -90,6 +91,7 @@
 [python]: https://www.python.org/
 [git]: https://git-scm.com/.org/
 [linux]: https://www.linux.org/
+[bash]: https://www.gnu.org/software/bash/
 
 <br><br>
 #
