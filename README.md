@@ -8,6 +8,9 @@
   - [Port Scanner](https://github.com/infinity-set/port_scanner)
   - [Key Logger](https://github.com/infinity-set/key_logger)
   - [Password Manager - Graphical User Interface](https://github.com/infinity-set/password_manager)
+ 
+- <b>Bash</b>
+  - Package Installer 
 
 ## :iphone: Connect with me :
 
