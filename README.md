@@ -10,7 +10,7 @@
   - [Password Manager - Graphical User Interface](https://github.com/infinity-set/password_manager)
  
 - <b>Bash</b>
-  - Package Installer 
+  - [Package Installer](https://github.com/infinity-set/package_installer)
 
 ## :iphone: Connect with me :
 
