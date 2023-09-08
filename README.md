@@ -11,6 +11,7 @@
  
 - <b>Bash</b>
   - [Package Installer](https://github.com/infinity-set/package_installer)
+  - [Log Compression](https://github.com/infinity-set/log_compression)
 
 ## :iphone: Connect with me :
 
