@@ -57,7 +57,6 @@
 [<img align="left" alt="Ubuntu Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />][ubuntu]
 [<img align="left" alt="Debian Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" />][debian]
 [<img align="left" alt="Bash Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />][bash]
-[<img align="left" alt="Autopsy Icon" width="120px" src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" />][autopsy]
 
 <br><br><br>
 [<img align="left" alt="HTML-CSS Icon" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" />][html_css]
@@ -68,6 +67,7 @@
 [<img align="left" alt="PyCharm Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][pycharm]
 [<img align="left" alt="Visual Code Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
 [<img align="left" alt="JSON Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" />][json]
+[<img align="left" alt="Autopsy Icon" width="120px" src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" />][autopsy]
 <br><br><br>
 [<img align="left" alt="Kali Linux Icon" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />][kali]<br>
 [<img align="left" alt="My SQL Icon" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" />][my_sql]
