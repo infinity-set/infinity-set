@@ -25,6 +25,7 @@
 <img align="left" alt="CySA+" width="70px" src="https://github.com/infinity-set/infinity-set/assets/142350896/3840bd48-e4db-4a2e-9a97-18628d51f4d9" />
 <img align="left" alt="PenTest+" width="75px" src="https://github.com/infinity-set/infinity-set/assets/142350896/c82f9e16-0839-40db-84c6-4070e170dfea" />
 <img align="left" alt="Linux+" width="70px" src="https://github.com/infinity-set/infinity-set/assets/142350896/40f8aa9a-3971-47af-a170-1a1f8302f78f" />
+<br>
 <img align="left" alt="Security+" width="70px" src="https://github.com/infinity-set/infinity-set/assets/142350896/186d480d-9468-4af4-bfcc-c24a53ef5f81" />
 <img align="left" alt="Network+" width="75px" src="https://github.com/infinity-set/infinity-set/assets/142350896/2ad3cd09-152d-4010-aef8-361e896e7118" />
 <img align="left" alt="A+" width="70px" src="https://github.com/infinity-set/infinity-set/assets/142350896/8a2dbd52-9626-4b12-86fe-b7e6bfd55911" />
