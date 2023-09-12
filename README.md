@@ -64,7 +64,7 @@
 [<img align="left" alt="Bash Icon" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />][bash]
 [<img align="left" alt="HTML-CSS Icon" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" />][html_css]
 [<img align="left" alt="Wireshark Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />][wireshark]
-<br><br><br>
+<br><br><br><br>
 [<img align="left" alt="Splunk Icon" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk-Logo.jpg" />][splunk]
 [<img align="left" alt="Nessus Icon" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" />][nessus]
 [<img align="left" alt="Nmap Icon" width="75px" src="https://nmap.org/images/sitelogo.png" />][nmap]
