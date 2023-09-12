@@ -79,7 +79,7 @@
 [<img align="left" alt="My SQL Icon" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" />][my_sql]
 [<img align="left" alt="Autopsy Icon" width="140px" src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" />][autopsy]
 [<img align="left" alt="Burp Suite Icon" width="185px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg" />][burp_suite]
-<br><br>
+<br><br><br>
 [<img align="left" alt="Visual Code Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
 [<img align="left" alt="JSON Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" />][json]
 [<img align="left" alt="Office 365 Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" />][office_365]
