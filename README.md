@@ -122,13 +122,13 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 <br><br><br>
 
 <details>
- <summary><h2>Alem's Coding Journey</h2></summary>
+ <summary><h2> :mag: Alem's Coding Journey</h2></summary>
    My professional journey in technology is anchored in a deep-rooted passion for mathematics and astronomy that I've had since childhood. This early fascination naturally guided me towards a career in the tech industry. My experience in the tech world was significantly refined during my service in the Army, where I was a dedicated member of the Signal Corps. Here, I honed my skills in network administration and satellite communications, gaining invaluable hands-on expertise. While serving in the Army, I proactively pursued higher education and earned a bachelor's degree in Cybersecurity, which not only solidified my understanding of the field but also provided me with a strong academic foundation. During the latter part of my military service, I seized the opportunity to participate in an internship focused on software development, with a particular emphasis on Python programming. This experience allowed me to diversify my skill set, encompassing Python, Bash scripting, and web development. My coding journey has been a dynamic and enriching one, shaped by a commitment to continuous learning and a dedication to excellence. I am excited about the opportunity to contribute my skills and experience to innovative projects and to collaborate with exceptional professionals in the tech industry.
 </details>
 
 <br><br><br>
 
-<h2 align="center"> 📊 Alem's Stats </h2>
+<h2 align="center"> :bar_chart: Alem's Stats </h2>
 <br>
 <div align=center>
 <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=infinity-set&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
