@@ -1,6 +1,6 @@
 <div align=center>
   
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Welcome+to+my+GitHub!&color=2577b1)
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+GitHub!&color=2577b1)
 </div>
 
 # :technologist: About Me: 
@@ -138,7 +138,7 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 
 <h3 align="center">
   
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Thanks+for+visiting!&color=2577b1)
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!&color=2577b1)
 
 </h3>
 
