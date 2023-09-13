@@ -59,38 +59,34 @@
 <br><br>
 
 ## :hammer: Tools and Technologies:
-
-[<img align="left" alt="Python Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
-[<img align="left" alt="Github Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
-[<img align="left" alt="Linux Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][linux]
-[<img align="left" alt="Virtual Box Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Virtualbox_Faenza.svg" />][virtualbox]
-[<img align="left" alt="Vmware Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" />][vmware]
-<br><br><br>
-[<img align="left" alt="Cisco Icon" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20180706165010%21Cisco_logo.svg" />][cisco]
-[<img align="left" alt="Microsoft Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
-[<img align="left" alt="Microsoft Azure Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" />][windows]
-[<img align="left" alt="Red Hat Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" />][red_hat]
-[<img align="left" alt="Cent OS Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/CentOS_color_logo.svg" />][cent_os]
-<br><br><br>
-[<img align="left" alt="Ubuntu Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />][ubuntu]
-[<img align="left" alt="Debian Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" />][debian]
-[<img align="left" alt="Bash Icon" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />][bash]
-[<img align="left" alt="HTML-CSS Icon" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" />][html_css]
-[<img align="left" alt="Wireshark Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />][wireshark]
-<br><br><br><br>
-[<img align="left" alt="Splunk Icon" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk-Logo.jpg" />][splunk]
-[<img align="left" alt="Nessus Icon" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" />][nessus]
-[<img align="left" alt="Nmap Icon" width="75px" src="https://nmap.org/images/sitelogo.png" />][nmap]
-[<img align="left" alt="PyCharm Icon" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][pycharm]
-<br><br><br>
-[<img align="left" alt="My SQL Icon" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" />][my_sql]
-[<img align="left" alt="Autopsy Icon" width="130px" src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" />][autopsy]
-[<img align="left" alt="Burp Suite Icon" width="175px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg" />][burp_suite]
-<br><br>
-[<img align="left" alt="Visual Code Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
-[<img align="left" alt="JSON Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" />][json]
-[<img align="left" alt="Office 365 Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" />][office_365]
-[<img align="left" alt="Kali Linux Icon" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />][kali]
+<div align=center>
+  
+[<img  alt="Python Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
+[<img alt="Kali Linux Icon" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />][kali]
+[<img  alt="Github Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
+[<img alt="PyCharm Icon" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][pycharm]
+[<img alt="Linux Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][linux]
+[<img alt="Red Hat Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" />][red_hat]
+[<img alt="Cent OS Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/CentOS_color_logo.svg" />][cent_os]
+[<img alt="Ubuntu Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />][ubuntu]
+[<img alt="Debian Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" />][debian]
+[<img alt="Bash Icon" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />][bash]
+[<img alt="Microsoft Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
+[<img alt="Visual Code Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
+[<img alt="Office 365 Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" />][office_365]
+[<img alt="Microsoft Azure Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" />][azure]
+[<img alt="Virtual Box Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Virtualbox_Faenza.svg" />][virtualbox]
+[<img  alt="Vmware Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" />][vmware]
+[<img alt="Cisco Icon" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20180706165010%21Cisco_logo.svg" />][cisco]
+[<img alt="HTML-CSS Icon" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" />][html_css]
+[<img alt="JSON Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" />][json]
+[<img alt="Wireshark Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />][wireshark]
+[<img alt="Splunk Icon" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk-Logo.jpg" />][splunk]
+[<img alt="Nessus Icon" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" />][nessus]
+[<img alt="Nmap Icon" width="75px" src="https://nmap.org/images/sitelogo.png" />][nmap]
+[<img alt="Burp Suite Icon" width="175px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg" />][burp_suite]
+[<img alt="My SQL Icon" width="110px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" />][my_sql]
+[<img alt="Autopsy Icon" width="130px" src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" />][autopsy]
 
 [azure]: https://azure.microsoft.com/en-us
 [json]: https://www.json.org/json-en.html
@@ -119,10 +115,11 @@
 [ubuntu]: https://ubuntu.com/
 [debian]: https://www.debian.org/
 
+</div>
 <br><br><br>
-##
+
 <details>
- <summary><h3>Alem's Coding Journey</h3></summary>
+ <summary><h2>Alem's Coding Journey</h2></summary>
    I started my coding journey as a
 </details>
 
