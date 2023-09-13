@@ -33,31 +33,34 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 <br><br><br><br>
 ## :scroll: Certifications:
 
+[<img align="left" alt="CompTIA logo" width="110px" height=32 src="https://upload.wikimedia.org/wikipedia/commons/6/62/Comptia-logo.svg" />](https://www.comptia.org/)
+
+
+<div align=center>
 <img align="left" alt="CySA+" width="70px" src="https://github.com/infinity-set/infinity-set/assets/142350896/3840bd48-e4db-4a2e-9a97-18628d51f4d9" />
 <img align="left" alt="PenTest+" width="75px" src="https://github.com/infinity-set/infinity-set/assets/142350896/c82f9e16-0839-40db-84c6-4070e170dfea" />
 <img align="left" alt="Linux+" width="70px" src="https://github.com/infinity-set/infinity-set/assets/142350896/40f8aa9a-3971-47af-a170-1a1f8302f78f" />
-<br><br>
+<br>
 <img align="left" alt="Security+" width="70px" src="https://github.com/infinity-set/infinity-set/assets/142350896/186d480d-9468-4af4-bfcc-c24a53ef5f81" />
 <img align="left" alt="Network+" width="75px" src="https://github.com/infinity-set/infinity-set/assets/142350896/2ad3cd09-152d-4010-aef8-361e896e7118" />
 <img align="left" alt="A+" width="70px" src="https://github.com/infinity-set/infinity-set/assets/142350896/8a2dbd52-9626-4b12-86fe-b7e6bfd55911" />
+</div>
+<br><br>
 
-[<img align="right" alt="CompTIA logo" width="130px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Comptia-logo.svg" />](https://www.comptia.org/)
+[<img align="left" alt="ISC2 logo" width="110px" height=42px src="https://upload.wikimedia.org/wikipedia/commons/8/8c/%28ISC%29%C2%B2_logo_%28vectorized%29.svg" />](https://www.isc2.org/)
 
-<br>
-
-[<img align="right" alt="ISC2 logo" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/%28ISC%29%C2%B2_logo_%28vectorized%29.svg" />](https://www.isc2.org/)
-
+<div align=center>
 <img align="left" alt="CCSP" width="70px" height="22px" src="https://github.com/infinity-set/infinity-set/assets/142350896/35541783-2f44-43d8-bec5-732481942327" />
 
 <img align="left" alt="SSCP" width="65px" height="22px" src="https://github.com/infinity-set/infinity-set/assets/142350896/91d83ab1-682e-4277-bd1a-033da9100ce1" />
+</div>
+<br><br>
 
-<br>
-<br>
+[<img align="left" alt="Cisco logo" width="110px" height=42 src="https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20180706165010%21Cisco_logo.svg" />](https://www.cisco.com/) 
 
-[<img align="right" alt="Cisco logo" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20180706165010%21Cisco_logo.svg" />](https://www.cisco.com/) 
-  
+<div align=center>  
 <img align="left" alt="CCNA" width="70px" height="22px" src="https://github.com/infinity-set/infinity-set/assets/142350896/f51dcb06-a2fa-4c8c-ba1a-8d495a68b6f6" />
-
+</div>
 <br><br>
 <br><br>
 
