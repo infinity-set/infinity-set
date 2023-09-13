@@ -3,7 +3,9 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub!&color=2577b1)
 </div>
 
-# Hi, my name is Alem. 
+# About Me: 
+
+Greetings! I'm Alem, a cybersecurity professional driven by a passion for strengthening digital security. My relentless curiosity for technology fuels my continuous growth and learning. I place a strong emphasis on teamwork and building valuable relationships, recognizing their crucial role in achieving our collective objectives within the ever-evolving tech landscape.
 
 ## Projects:
 
