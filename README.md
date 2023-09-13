@@ -47,7 +47,7 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 </div>
 <br>
 
-[<img align="left" alt="ISC2 logo" width="60px" height=30x src="https://upload.wikimedia.org/wikipedia/commons/8/8c/%28ISC%29%C2%B2_logo_%28vectorized%29.svg" />](https://www.isc2.org/)
+[<img align="left" alt="ISC2 logo" width="58px" height=30x src="https://upload.wikimedia.org/wikipedia/commons/8/8c/%28ISC%29%C2%B2_logo_%28vectorized%29.svg" />](https://www.isc2.org/)
 
 <div align=left> 
   <img alt="CCSP" width="70px" height="22px" src="https://github.com/infinity-set/infinity-set/assets/142350896/35541783-2f44-43d8-bec5-732481942327" />
