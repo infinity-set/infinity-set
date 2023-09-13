@@ -13,6 +13,8 @@
   - [Package Installer](https://github.com/infinity-set/package_installer)
   - [Linux Package Manager](https://github.com/infinity-set/linux_package_updater)
   - [Log Compression](https://github.com/infinity-set/log_compression)
+  - [Backup Script](https://github.com/infinity-set/bash_backup_script)
+
 
 <br>
 
