@@ -62,7 +62,7 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 </div>
 
 <br><br>
-<br><br>
+
 
 ## :hammer: Tools and Technologies:
 <div align=center>
