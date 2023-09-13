@@ -63,7 +63,7 @@
   
 [<img  alt="Python Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 [<img alt="Bash Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />][bash]
-[<img alt="Kali Linux Icon" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />][kali]
+[<img alt="Kali Linux Icon" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />][kali]
 [<img alt="Linux Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][linux]
 [<img alt="Red Hat Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" />][red_hat]
 [<img alt="Cent OS Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/CentOS_color_logo.svg" />][cent_os]
