@@ -79,6 +79,7 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 [<img alt="Ubuntu Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />][ubuntu]
 [<img alt="Debian Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" />][debian]
 [<img alt="Microsoft Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
+[<img alt="PowerShell Icon" width="60px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true" />][powershell]
 [<img alt="Office 365 Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" />][office_365]
 [<img alt="Microsoft Azure Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" />][azure]
 [<img alt="Visual Code Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
@@ -96,6 +97,8 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 [<img alt="Burp Suite Icon" width="155px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg" />][burp_suite]
 [<img alt="My SQL Icon" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" />][my_sql]
 [<img alt="Autopsy Icon" width="130px" src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" />][autopsy]
+
+
 
 [azure]: https://azure.microsoft.com/en-us
 [json]: https://www.json.org/json-en.html
@@ -123,7 +126,7 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 [cent_os]: https://www.centos.org/ 
 [ubuntu]: https://ubuntu.com/
 [debian]: https://www.debian.org/
-
+[powershell]: https://learn.microsoft.com/en-us/powershell/
 </div>
 <br><br><br>
 
