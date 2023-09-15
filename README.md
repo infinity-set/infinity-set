@@ -79,7 +79,7 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 [<img alt="Ubuntu Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />][ubuntu]
 [<img alt="Debian Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" />][debian]
 [<img alt="Microsoft Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
-[<img alt="PowerShell Icon" width="60px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true" />][powershell]
+[<img alt="PowerShell Icon" width="55px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true" />][powershell]
 [<img alt="Office 365 Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" />][office_365]
 [<img alt="Microsoft Azure Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" />][azure]
 [<img alt="Visual Code Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
