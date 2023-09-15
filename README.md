@@ -23,6 +23,9 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
   - [Log Compression](https://github.com/infinity-set/log_compression)
   - [Backup Script](https://github.com/infinity-set/bash_backup_script)
 
+- <b>PowerShell</b>
+  - [Interactive Port Scanner](https://github.com/infinity-set/port_scanner_ps)
+
 
 <br>
 
