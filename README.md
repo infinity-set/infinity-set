@@ -26,6 +26,7 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 - <b>PowerShell</b>
   - [Interactive Port Scanner](https://github.com/infinity-set/port_scanner_ps)
   - [Text Search Tool](https://github.com/infinity-set/text_search_tool)
+  - [Active Directory User Creation Script](https://github.com/infinity-set/ActiveDirectory_UserCreation_Script)
 
 <br>
 
