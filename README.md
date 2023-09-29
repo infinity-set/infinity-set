@@ -32,7 +32,9 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 
 ## :wave: Connect with me :
 
-[<img align="left" alt="Alem | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](www.linkedin.com/in/alem-avdic)
+[<img align="left" alt="Alem | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/alem-avdic/
 
 <br><br><br><br>
 ## :scroll: Certifications:
