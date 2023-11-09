@@ -97,6 +97,7 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 [<img alt="Wireshark Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />][wireshark]
 [<img alt="Nmap Icon" width="75px" src="https://nmap.org/images/sitelogo.png" />][nmap]
 [<img alt="Splunk Icon" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk-Logo.jpg" />][splunk]
+[<img alt="Snort Icon" width="120px" src="https://www.vectorlogo.zone/logos/snort/snort-ar21.svg" />][snort]
 [<img alt="Nessus Icon" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" />][nessus]
 [<img alt="Burp Suite Icon" width="155px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg" />][burp_suite]
 [<img alt="My SQL Icon" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" />][my_sql]
@@ -131,6 +132,7 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 [ubuntu]: https://ubuntu.com/
 [debian]: https://www.debian.org/
 [powershell]: https://learn.microsoft.com/en-us/powershell/
+[snort]: https://www.snort.org/
 </div>
 <br><br><br>
 
