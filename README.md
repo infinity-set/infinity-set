@@ -3,12 +3,12 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+GitHub!&color=2577b1)
 </div>
 
-# :technologist: About Me: 
+# 👉 About Me: 
 
 Greetings! I'm Alem, a cybersecurity professional driven by a passion for strengthening digital security. My relentless curiosity for technology fuels my continuous growth and learning. I place a strong emphasis on teamwork and building valuable relationships, recognizing their crucial role in achieving our collective objectives within the ever-evolving tech landscape.
 <br><br>
 
-## :rocket: Projects:
+## 🚀 Projects:
 
 - <b>Python</b>
   - [Caesar Cipher](https://github.com/infinity-set/caesar_cipher)
@@ -32,7 +32,7 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 
 <br>
 
-## :wave: Connect with me :
+## 👋 Connect with me :
 
 [<img align="left" alt="Alem | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
@@ -40,7 +40,7 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 
 
 <br><br><br><br>
-## :scroll: Certifications:
+## 📜 Certifications:
 
 [<img align="left" alt="CompTIA logo" width="65px" height=30 src="https://upload.wikimedia.org/wikipedia/commons/6/62/Comptia-logo.svg" />](https://www.comptia.org/)
 <br>
@@ -73,7 +73,7 @@ Greetings! I'm Alem, a cybersecurity professional driven by a passion for streng
 <br><br>
 
 
-## :hammer: Tools and Technologies:
+## 🔨 Tools and Technologies:
 <div align=center>
   
 [<img  alt="Python Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
