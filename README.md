@@ -31,6 +31,10 @@ Greetings! I'm Alem, a programmer and a cybersecurity professional driven by a p
   - [Active Directory User Creation Script](https://github.com/infinity-set/ActiveDirectory_UserCreation_Script)
   - [Baseline Monitoring Script](https://github.com/infinity-set/baseline_script)
  
+  - <b>C </b>
+  - [Doubly Linked List Concepts](https://github.com/infinity-set/doubly_linked_list)
+
+ 
 <br>
 
 ## 👋 Connect with me :
