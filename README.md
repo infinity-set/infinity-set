@@ -82,6 +82,7 @@ Greetings! I'm Alem, a programmer and a cybersecurity professional driven by a p
 <div align=center>
   
 [<img  alt="Python Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
+[<img  alt="C Logo Icon" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />][C]
 [<img alt="Bash Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />][bash]
 [<img alt="Kali Linux Icon" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />][kali]
 [<img alt="Linux Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />][linux]
@@ -111,7 +112,6 @@ Greetings! I'm Alem, a programmer and a cybersecurity professional driven by a p
 [<img alt="Autopsy Icon" width="130px" src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" />][autopsy]
 
 
-
 [azure]: https://azure.microsoft.com/en-us
 [json]: https://www.json.org/json-en.html
 [vscode]: https://code.visualstudio.com/
@@ -132,6 +132,7 @@ Greetings! I'm Alem, a programmer and a cybersecurity professional driven by a p
 [vmware]: https://www.vmware.com/products/workstation-pro.html 
 [virtualbox]: https://www.virtualbox.org/
 [python]: https://www.python.org/
+[C]: https://learn.microsoft.com/en-us/cpp/c-language/
 [git]: https://git-scm.com/.org/
 [linux]: https://www.linux.org/
 [bash]: https://www.gnu.org/software/bash/
