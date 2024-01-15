@@ -32,7 +32,7 @@ Greetings! I'm Alem, a programmer and a cybersecurity professional driven by a p
   - [Baseline Monitoring Script](https://github.com/infinity-set/baseline_script)
  
 - <b>C </b>
-  - [Doubly Linked List Concepts](https://github.com/infinity-set/doubly_linked_list)
+  - [(Development in Progress) Doubly Linked List Concepts](https://github.com/infinity-set/doubly_linked_list)
 
  
 <br>
