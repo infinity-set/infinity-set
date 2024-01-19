@@ -36,6 +36,7 @@ Greetings! I'm Alem, a programmer and a cybersecurity professional driven by a p
   - [(Development in Progress) Doubly Linked List Concepts](https://github.com/infinity-set/doubly_linked_list)
   - [(Development in Progress) Python String Class Implementation in C](https://github.com/infinity-set/pystr)
   - [(Development in Progress) Python List Class Implementation in C](https://github.com/infinity-set/pylst)
+  - [(Development in Progress) Python Dictionary Class Implementation in C](https://github.com/infinity-set/pydict)
 
 <br>
 
