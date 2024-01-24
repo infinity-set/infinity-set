@@ -32,7 +32,7 @@ Greetings! I'm Alem, a programmer and a cybersecurity professional driven by a p
   - [Baseline Monitoring Script](https://github.com/infinity-set/baseline_script)
  
 - <b>C </b>
-  - [(Development in Progress) Singly Linked List Concepts](https://github.com/infinity-set/singly_linked_list)
+  - [Singly Linked List Concepts](https://github.com/infinity-set/singly_linked_list)
   - [(Development in Progress) Doubly Linked List Concepts](https://github.com/infinity-set/doubly_linked_list)
   - [(Development in Progress) Python String Class Implementation in C](https://github.com/infinity-set/pystr)
   - [(Development in Progress) Python List Class Implementation in C](https://github.com/infinity-set/pylst)
