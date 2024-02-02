@@ -112,9 +112,10 @@ Greetings! I'm Alem, a programmer and a cybersecurity professional driven by a p
 [<img alt="Splunk Icon" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Splunk-Logo.jpg" />][splunk]
 [<img alt="Snort Icon" width="120px" src="https://www.vectorlogo.zone/logos/snort/snort-ar21.svg" />][snort]
 [<img alt="Nessus Icon" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Nessus-Professional-FullColor-RGB.svg" />][nessus]
-[<img alt="Burp Suite Icon" width="155px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg" />][burp_suite]
 [<img alt="My SQL Icon" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" />][my_sql]
 [<img alt="Autopsy Icon" width="130px" src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" />][autopsy]
+[<img  alt="Volatility Icon" width="65px" src="https://volatility3.readthedocs.io/en/latest/_static/vol.png" />][volatility]
+[<img alt="Burp Suite Icon" width="155px" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg" />][burp_suite]
 
 
 [azure]: https://azure.microsoft.com/en-us
@@ -146,6 +147,7 @@ Greetings! I'm Alem, a programmer and a cybersecurity professional driven by a p
 [debian]: https://www.debian.org/
 [powershell]: https://learn.microsoft.com/en-us/powershell/
 [snort]: https://www.snort.org/
+[volatility]: https://volatility3.readthedocs.io/en/latest/
 </div>
 <br><br><br>
 
