@@ -80,6 +80,13 @@ Greetings! I'm Alem, a programmer and a cybersecurity professional driven by a p
   <img alt="CCNA" width="70px" height="22px" src="https://github.com/infinity-set/infinity-set/assets/142350896/f51dcb06-a2fa-4c8c-ba1a-8d495a68b6f6" />
 </div>
 
+<br>
+
+[<img align="left" alt="SANS logo" width="60px" height=40 src="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/SANS_Institute_Logo.svg/1200px-SANS_Institute_Logo.svg.png" />](https://www.giac.org/) 
+<div align=left>  
+  <img alt="GCIH" width="70px" height="25px" src="https://github.com/infinity-set/infinity-set/assets/142350896/44121ef6-cce9-4501-878c-8cf9e4f2cd39" />
+</div>
+
 <br><br>
 
 
